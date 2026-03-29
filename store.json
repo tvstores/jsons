@@ -61,7 +61,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "hhttps://raw.githubusercontent.com/tvstores/logos/main/hbomax.jpeg"
+    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/hbomax.jpeg"
   },
   {
     "package_name": "com.android.mgstv",
