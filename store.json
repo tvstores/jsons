@@ -45,7 +45,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/tvstores/logos/blob/main/chrome.jpeg"
+    "icon_url": "https://github.com/tvstores/logos/blob/main/chrome.jpeg?raw=true"
   },
   {
     "package_name": "com.hbo.hbonow",
