@@ -13,7 +13,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app/SmartTube/2305/icon_st21.png"
+    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/icon_st.png"
   },
   {
     "package_name": "com.netflix.mediaclient",
@@ -29,7 +29,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/jinyaodl/iwantacake/releases/download/app%2FNetflix%2F63109/netflix_icon.png"
+    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/netflix_icon.png"
   },
   {
     "package_name": "com.android.chrome",
@@ -45,7 +45,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/tvstores/logos/blob/main/chrome.jpeg?raw=true"
+    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/chrome.jpeg"
   },
   {
     "package_name": "com.hbo.hbonow",
@@ -61,7 +61,7 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FHBOMax%2F35389866/hbomax.jpeg"
+    "icon_url": "hhttps://raw.githubusercontent.com/tvstores/logos/main/hbomax.jpeg"
   },
   {
     "package_name": "com.android.mgstv",
@@ -77,6 +77,6 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://github.com/61160306/storeupdate/releases/download/app%2FXuper%2F50103/magistv.jpeg"
+    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/magistv.jpeg"
   }
 ]
