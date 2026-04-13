@@ -4,7 +4,7 @@
     "app_name": "SmartTube",
     "version_code": 2305,
     "version_name": "31.15",
-    "download_url": "https://raw.githubusercontent.com/tvstores/download/main/SmartTube_beta_31.15_universal.apk",
+    "download_url": "https://34bl.com/tvmanager/app/SmartTube_beta_31.15_universal.apk",
     "sha256_checksum": "93242b9f8fb39c76a7c23f96270a695f9d973ab601957f9ca98a4dc38a225d0a",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -13,14 +13,14 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/icon_st.png"
+    "icon_url": "https://34bl.com/tvmanager/logo/icon_st.png"
   },
   {
     "package_name": "com.netflix.mediaclient",
     "app_name": "Netflix",
     "version_code": 63109,
     "version_name": "9.22.1 build 3 63109",
-    "download_url": "https://raw.githubusercontent.com/tvstores/download/main/netflix-9-22-1-build-3-63109.apk",
+    "download_url": "https://34bl.com/tvmanager/app/netflix-9-22-1-build-3-63109.apk",
     "sha256_checksum": "8f4415b5e03449d540aea84773190ded95e3afd39eb23a642bef17f40b6d59eb",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -29,14 +29,14 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/netflix_icon.png"
+    "icon_url": "https://34bl.com/tvmanager/logo/netflix_icon.png"
   },
   {
     "package_name": "com.android.chrome",
     "app_name": "Chrome",
     "version_code": 362612100,
     "version_name": "72.0.3626.121",
-    "download_url": "https://raw.githubusercontent.com/tvstores/download/main/Chrome_362612100.apk",
+    "download_url": "https://34bl.com/tvmanager/app/Chrome_362612100.apk",
     "sha256_checksum": "eca3c2d657df3968345a476284dd7cad69deafa77d5b364bb3bcc3d15a51aebe",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -45,14 +45,14 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/chrome.jpeg"
+    "icon_url": "https://34bl.com/tvmanager/logo/chrome.jpeg"
   },
   {
     "package_name": "com.hbo.hbonow",
     "app_name": "HBOMax",
     "version_code": 35389866,
     "version_name": "6.11.1.3",
-    "download_url": "https://raw.githubusercontent.com/tvstores/download/main/HBOMax_35389866.apk",
+    "download_url": "https://34bl.com/tvmanager/app/HBOMax_35389866.apk",
     "sha256_checksum": "df6ac62cbeb24c0881dd6221e2993e6bd4b0f8e9e0cce3a2e4e451123cb947b2",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -61,14 +61,14 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/hbomax.jpeg"
+    "icon_url": "https://34bl.com/tvmanager/logo/hbomax.jpeg"
   },
   {
     "package_name": "com.android.mgstv",
     "app_name": "Xuper",
     "version_code": 50103,
     "version_name": "5.1.3",
-    "download_url": "https://raw.githubusercontent.com/tvstores/download/main/mgstvv5.1.3.apk",
+    "download_url": "https://34bl.com/tvmanager/app/mgstvv5.1.3.apk",
     "sha256_checksum": "d1f68849e95ff80878ef5dd392a0a440c48abd6f3364f8e7323f33076c5ecab3",
     "is_force_update": false,
     "is_downgrade_allowed": false,
@@ -77,6 +77,23 @@
     "product_ids": [],
     "product_id_regex": ".*",
     "excluded_product_ids": [],
-    "icon_url": "https://raw.githubusercontent.com/tvstores/logos/main/magistv.jpeg"
+    "icon_url": "https://34bl.com/tvmanager/logo/magistv.jpeg"
+  },
+  {
+    "package_name": "com.rifftica.proplayerpulse",
+    "app_name": "Iboplayer",
+    "version_code": 4431000,
+    "version_name": "4431.0",
+    "download_url": "https://34bl.com/tvmanager/app/iboplayer.apk",
+    "sha256_checksum": "64c2e8b7d634175a5ccf70739ee50b8fc7e453ca53f318af016c96ef4086d652",
+    "is_force_update": false,
+    "is_downgrade_allowed": false,
+    "release_notes": "Automated release for Iboplayer",
+    "publish_date": "2026-03-17T05:40:37Z",
+    "product_ids": [],
+    "product_id_regex": ".*",
+    "excluded_product_ids": [],
+    "icon_url": "http://34bl.com/tvmanager/logo/iboplayer.jpeg"
   }
+
 ]
